@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Schema;
 
-namespace _31231025891_NGUYEN_THI_NGOC_BICH
+namespace __31221024904_le_minh_duc_
 {
     internal class Session07
     {
